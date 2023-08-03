@@ -19,8 +19,9 @@ Projeto feito em React Native para dispositivos móveis, que contém o uso do co
 inseriu nela estarão lá na próxima vez que você abri-la.
 
 
-![igniteteams execution](https://github.com/famalaquias/IgniteTeams/assets/98343640/0dc0c97f-f17e-4e0f-bc69-37c6c5592be9)
+## 🚀 Projeto
 
+![igniteteams execution](https://github.com/famalaquias/IgniteTeams/assets/98343640/0dc0c97f-f17e-4e0f-bc69-37c6c5592be9)
 
 
 ## :hammer_and_wrench: Ferramentas Utilizadas
